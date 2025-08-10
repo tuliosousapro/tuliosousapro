@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hello Everyone! ✨🤙
 
-<!--
-**tuliosousapro/tuliosousapro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hey, I'm Túlio from Brazil! I run an AI Agency and specialize in AI & Automation projects, especially in the **low-code/no-code** space. While I'm not a career developer, I love building practical solutions and tinkering with tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack & Interests
+
+- **Languages & Tools:** Python, Docker
+- **Domains:** Prompt Engineering, NLP, AI, Autonomous Agents, Automation
+- **Platforms:** Low-Code, No-Code
+
+---
+
+## Featured Project: Kindle2Notion Extension
+
+Recently, I built an extension to help organize my Kindle notes/highlights directly into Notion.  
+It's not finished yet, but it's working!  
+Check it out 👉 [Kindle2Notion Repo](https://github.com/tuliosousapro/Kindle-To-Notion-Extension)
+
+---
+
+## Origin Story
+
+Although I'm not a developer by trade, I've always been the "computer guy."  
+My technical journey started with Tibia—building OT Servers taught me Lua and HTML. That's where it all began.
+
+---
+
+## Connect With Me
+
+- **Website:** [tuliosousa.pro](https://tuliosousa.pro)
+- **Instagram, X, TikTok:** [@tuliosousapro](https://instagram.com/tuliosousapro)
+- **Substack:** [tuliosousapro.substack.com](https://tuliosousapro.substack.com/)
+
+---
+
+> **Motto:** The impossible doesn't exist.
+
+---
+
+## Vibe
+
+Minimal — with an aesthetic meme twist 😎
