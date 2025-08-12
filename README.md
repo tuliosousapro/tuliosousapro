@@ -6,8 +6,8 @@ Hey, I'm Túlio from Brazil! I run an AI Agency and specialize in AI & Automatio
 
 ### Tech Stack & Interests
 
-- **Languages & Tools:** Python, Docker
-- **Domains:** Prompt Engineering, NLP, AI, Autonomous Agents, Automation
+- **Languages & Tools:** HTML, Javascript, Python, Docker, Digital Ocean & AWS Cloud, LLM, OpenAI API, Gemini API, N8N, Make.com, Evolution API, Elementor, Shopify, Wordpress
+- **Domains:** Prompt Engineering, NLP, AI, Autonomous Agents, Automation, API's
 - **Platforms:** Low-Code, No-Code
 
 ---
