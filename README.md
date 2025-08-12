@@ -23,7 +23,7 @@ Check it out 👉 [Kindle2Notion Repo](https://github.com/tuliosousapro/Kindle-T
 ## Origin Story
 
 Although I'm not a developer by trade, I've always been the "computer guy."  
-My technical journey started with Tibia—building OT Servers taught me Lua and HTML. That's where it all began.
+My technical journey started with Tibia — building OT Servers taught me Lua and HTML. That's where it all began.
 
 ---
 
