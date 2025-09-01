@@ -4,13 +4,14 @@
 
 Hey, I'm Túlio from Brazil! I run an AI Agency and specialize in AI & Automation projects, especially in the **low-code/no-code** space. While I'm not a career developer, I love building practical solutions and tinkering with tech.
 
-### Tech Stack & Interests
-
-- **🧰 Languages & Tools**
+### 🧰 Languages & Tools
 <p align="center"> <img src="https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"> <img src="https://img.shields.io/badge/Make-6D00CC.svg?style=for-the-badge&logo=Make&logoColor=white" alt="Make"> <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="DigitalOcean"> <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white" alt="LangChain"> <img src="https://img.shields.io/badge/Langflow-000000.svg?style=for-the-badge&logo=Langflow&logoColor=white" alt="Langflow"> <img src="https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white" alt="LangGraph"> <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI"> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white" alt="Google Gemini"> <img src="https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Claude&logoColor=white" alt="Claude"> <img src="https://img.shields.io/badge/Elementor-92003B.svg?style=for-the-badge&logo=Elementor&logoColor=white" alt="Elementor"> <img src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"> <img src="https://img.shields.io/badge/Shopify-7AB55C.svg?style=for-the-badge&logo=Shopify&logoColor=white" alt="Shopify"> </p>
 
-- **Domains:** Prompt Engineering, NLP, AI, Autonomous Agents, Automation, API's
-- **Platforms:** Low-Code, No-Code
+### Domains:
+- Prompt Engineering, NLP, AI, Autonomous Agents, Automation, API's
+
+### Platforms:
+- Low-Code, No-Code
 
 ---
 
