@@ -28,7 +28,7 @@ My technical journey started with Tibia — building OT Servers taught me Lua an
 ---
 
 ## Connect With Me
-
+<a href="https://tuliosousa.pro"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 - **Website:** [tuliosousa.pro](https://tuliosousa.pro)
 - **Instagram, X, TikTok:** [@tuliosousapro](https://instagram.com/tuliosousapro)
 - **Substack:** [tuliosousapro.substack.com](https://tuliosousapro.substack.com/)
