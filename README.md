@@ -1,6 +1,9 @@
 # Hello Everyone! ✨🤙
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce3fc759-9902-4a0d-abba-64146ce9d04a/dg2mur-7cf214d8-d31a-4c95-ada8-ba32f843205e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NlM2ZjNzU5LTk5MDItNGEwZC1hYmJhLTY0MTQ2Y2U5ZDA0YVwvZGcybXVyLTdjZjIxNGQ4LWQzMWEtNGM5NS1hZGE4LWJhMzJmODQzMjA1ZS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.4Gvf-93CbFc43QRrkyLiYReO86shR70c4whxAkkPyiU"</img>
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce3fc759-9902-4a0d-abba-64146ce9d04a/dg2mur-7cf214d8-d31a-4c95-ada8-ba32f843205e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NlM2ZjNzU5LTk5MDItNGEwZC1hYmJhLTY0MTQ2Y2U5ZDA0YVwvZGcybXVyLTdjZjIxNGQ4LWQzMWEtNGM5NS1hZGE4LWJhMzJmODQzMjA1ZS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.4Gvf-93CbFc43QRrkyLiYReO86shR70c4whxAkkPyiU" alt="Greed from Fullmetal Alchemist" width="300">
+</p>
+
 
 ### About Me
 
