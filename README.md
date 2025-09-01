@@ -37,13 +37,12 @@ My technical journey started with Tibia — building OT Servers taught me Lua an
 <a href="https://tuliosousapro.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719.svg?style=for-the-badge&logo=Substack&logoColor=white"></a>
 - **Website:** [tuliosousa.pro](https://tuliosousa.pro)
 
-
 ---
 
-> <p align="center"> <a alt="**Motto:** The impossible doesn't exist."</a></p>
+<p align="center"><strong>Motto:</strong> <em>The impossible doesn't exist.</em></p>
 
 ---
 
 ## Vibe
 
-Minimal — with an aesthetic meme twist 😎
+*Minimal — with an aesthetic meme twist 😎*
