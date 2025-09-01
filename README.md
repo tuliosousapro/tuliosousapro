@@ -40,7 +40,7 @@ My technical journey started with Tibia — building OT Servers taught me Lua an
 
 ---
 
-> **Motto:** The impossible doesn't exist.
+> <p align="center"> <a alt="**Motto:** The impossible doesn't exist."</a></p>
 
 ---
 
