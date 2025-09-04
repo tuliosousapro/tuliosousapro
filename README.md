@@ -24,7 +24,7 @@ Hey, I'm Túlio from Brazil! I run an AI Agency, specializing in **AI & Automati
 
 Recently, I built an extension to help organize my Kindle notes/highlights directly into Notion.  
 It's not finished yet, but it's working!  
-Check it out 👉 [Kindle To Notion Extension](https://github.com/tuliosousapro/Kindle-To-Notion-Extension)
+#### Check it out 👉 [Kindle To Notion Extension](https://github.com/tuliosousapro/Kindle-To-Notion-Extension)
 
 ---
 
