@@ -26,11 +26,6 @@ Recently, I built an extension to help organize my Kindle notes/highlights direc
 It's not finished yet, but it's working!  
 #### Check it out 👉 [Kindle To Notion Extension](https://github.com/tuliosousapro/Kindle-To-Notion-Extension)
 
-## WhatsLink+ - WA Direct Message and QR Code
-
-Whats Link+ is a lightweight and user-friendly Chrome extension that makes it easy to send WhatsApp messages and generate shareable links directly from your browser.
-Check it out 👉 [WhatsLink+ Extension](https://github.com/Machina-Labs-Agency/Whats-Link-Plus)
-
 ---
 
 ## Origin Story
