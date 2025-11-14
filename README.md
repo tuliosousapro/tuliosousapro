@@ -18,6 +18,8 @@ Hey, I'm Túlio from Brazil! I run an AI Agency, specializing in **AI & Automati
 ### Platforms:
 - Low-Code, No-Code
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuliosousapro&theme=jolly&show_icons=true)
+
 ---
 
 ## Featured Project: Kindle2Notion Extension
