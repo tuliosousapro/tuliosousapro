@@ -19,6 +19,9 @@ Hey, I'm Túlio from Brazil! I run an AI Agency, specializing in **AI & Automati
 - Low-Code, No-Code
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuliosousapro&theme=jolly&show_icons=true)
+</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuliosousapro&layout=compact&langs_count=6&theme=jolly" height="125" /> &nbsp;
+</div>
 
 ---
 
