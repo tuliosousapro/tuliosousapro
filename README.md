@@ -25,11 +25,11 @@ Hey, I'm Túlio from Brazil! I run an AI Agency, specializing in **AI & Automati
 
 ---
 
-## Featured Project: Kindle2Notion Extension
+## Projects I am working on:
 
-Recently, I built an extension to help organize my Kindle notes/highlights directly into Notion.  
-It's not finished yet, but it's working!  
-#### Check it out 👉 [Kindle To Notion Extension](https://github.com/tuliosousapro/Kindle-To-Notion-Extension)
+#### ✒ [Kindle To Notion Extension](https://github.com/tuliosousapro/Kindle-To-Notion-Extension) 👉 1-click export your Kindle highlights and notes to your Notion.
+#### 📲 [Whats Link+](https://github.com/Machina-Labs-Agency/Whats-Link-Plus) 👉 Easy WhatsApp link, QR Code, and Privacy chats.
+#### 🤖 [BRAINIAC: SAAS BLUEPRINT](https://github.com/tuliosousapro/SaaS-blueprint) 👉 A comprehensive playbook and operating system designed for building, launching, and scaling a SaaS APP covering from MVP to Mass Scale.
 
 ---
 
