@@ -34,6 +34,7 @@ I love building practical solutions and tinkering with tech.
 - ✒ [Kindle To Notion Extension](https://github.com/tuliosousapro/Kindle-To-Notion-Extension) 👉 1-click export your Kindle highlights and notes to your Notion.
 - 📲 [Whats Link+](https://github.com/Machina-Labs-Agency/Whats-Link-Plus) 👉 Easy WhatsApp link, QR Code, and Privacy chats.
 - 🤖 [BRAINIAC: SAAS BLUEPRINT](https://github.com/tuliosousapro/SaaS-blueprint) 👉 A playbook/system for SaaS APP covering from MVP to Exit Strategy.
+- 🔊 [SpeakWise - AI Coach](https://github.com/tuliosousapro/SpeakWise-AI-Coach) 👉 AI Voice agent built on AI Studio. It helps you speak better according to your speech focus.
 
 ---
 
