@@ -51,6 +51,9 @@ I love building practical solutions and tinkering with tech.
 
 ---
 
+## Drops
+- [Google ADK Course](https://github.com/tuliosousapro/adk-workspace) 👉 Learn how to build agents using Google Agent Development Kit (ADK)
+
 ## Vibe
 
 *Minimal — with an aesthetic meme twist 😎*
