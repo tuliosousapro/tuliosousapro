@@ -35,6 +35,20 @@ I love building practical solutions and tinkering with tech.
 - 📲 [Whats Link+](https://github.com/Machina-Labs-Agency/Whats-Link-Plus) 👉 Easy WhatsApp link, QR Code, and Privacy chats.
 - 🤖 [BRAINIAC: SAAS BLUEPRINT](https://github.com/tuliosousapro/SaaS-blueprint) 👉 A playbook/system for SaaS APP covering from MVP to Exit Strategy.
 - 🔊 [SpeakWise - AI Coach](https://github.com/tuliosousapro/SpeakWise-AI-Coach) 👉 AI Voice agent built on AI Studio. It helps you speak better according to your speech focus.
+- [andrej-karpathy-skills](https://github.com/tuliosousapro/andrej-karpathy-skills) 👉 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- 📲 [Instagram-Close-Friends-BOT](https://github.com/tuliosousapro/Instagram-Close-Friends-BOT) 👉 Automation for IG close friends.**(Deprecated)**
+
+### Private Projects (Stealth mode)
+- [X-growth-engine](https://github.com/tuliosousapro/X-growth-engine) 👉 A system to help grow on X with validated playbooks. **(Private)**
+- [Shopify-extension](https://github.com/tuliosousapro/Shopify-extension) 👉 A Shopify app that enables customers to virtually try on clothing before purchase, powered by Google Gemini AI **(Private)**
+- [Virtual-TryON](https://github.com/tuliosousapro/Virtual-TryON-V2.0.0) 👉 A interactive web application that lets users virtually try on clothing using AI-powered image generation. **(Private)**
+- [reading-companion-MVP](https://github.com/tuliosousapro/reading-companion-MVP) 👉 Bringing paper back - Track your physical books with digital features. **(Private)**
+- [pet-health-app](https://github.com/tuliosousapro/pet-health-app) 👉 An app to help you take good care of your loved pet. **(Private)**
+ 
+## Drops and Edu content
+- [Google ADK Course](https://github.com/tuliosousapro/adk-workspace) 👉 Learn how to build agents using Google Agent Development Kit (ADK)
+- [Flappybird](https://github.com/tuliosousapro/Flappybird) 👉 Python implementation.
+- [Google-Dino-Bot](https://github.com/tuliosousapro/Google-Dino-Bot) 👉 Auto-play bot for the Chrome Dino game.
 
 ---
 
@@ -50,9 +64,6 @@ I love building practical solutions and tinkering with tech.
 <p align="center"><strong>Motto:</strong> <em>The impossible doesn't exist.</em></p>
 
 ---
-
-## Drops
-- [Google ADK Course](https://github.com/tuliosousapro/adk-workspace) 👉 Learn how to build agents using Google Agent Development Kit (ADK)
 
 ## Vibe
 
