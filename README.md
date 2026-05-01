@@ -39,11 +39,11 @@ I love building practical solutions and tinkering with tech.
 - 📲 [Instagram-Close-Friends-BOT](https://github.com/tuliosousapro/Instagram-Close-Friends-BOT) 👉 Automation for IG close friends.**(Deprecated)**
 
 ### Private Projects (Stealth mode)
-- [X-growth-engine](https://github.com/tuliosousapro/X-growth-engine) 👉 A system to help grow on X with validated playbooks. **(Private)**
-- [Shopify-extension](https://github.com/tuliosousapro/Shopify-extension) 👉 A Shopify app that enables customers to virtually try on clothing before purchase, powered by Google Gemini AI **(Private)**
-- [Virtual-TryON](https://github.com/tuliosousapro/Virtual-TryON-V2.0.0) 👉 A interactive web application that lets users virtually try on clothing using AI-powered image generation. **(Private)**
-- [reading-companion-MVP](https://github.com/tuliosousapro/reading-companion-MVP) 👉 Bringing paper back - Track your physical books with digital features. **(Private)**
-- [pet-health-app](https://github.com/tuliosousapro/pet-health-app) 👉 An app to help you take good care of your loved pet. **(Private)**
+- [X-growth-engine](https://github.com/tuliosousapro/X-growth-engine) 👉 A system to help grow on X with validated playbooks.
+- [Shopify-extension](https://github.com/tuliosousapro/Shopify-extension) 👉 A Shopify app that enables customers to virtually try on clothing before purchase, powered by Google Gemini AI.
+- [Virtual-TryON](https://github.com/tuliosousapro/Virtual-TryON-V2.0.0) 👉 A interactive web application that lets users virtually try on clothing using AI-powered image generation.
+- [reading-companion-MVP](https://github.com/tuliosousapro/reading-companion-MVP) 👉 Bringing paper back - Track your physical books with digital features.
+- [pet-health-app](https://github.com/tuliosousapro/pet-health-app) 👉 An app to help you take good care of your loved pet.
  
 ## Drops and Edu content
 - [Google ADK Course](https://github.com/tuliosousapro/adk-workspace) 👉 Learn how to build agents using Google Agent Development Kit (ADK)
